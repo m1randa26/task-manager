@@ -1,2 +1,2 @@
-# Información
-Esta carpeta contiene el producto final de la aplicación
+# Information
+This file contains the result of the final product
